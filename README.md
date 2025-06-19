@@ -504,7 +504,8 @@ describe('Database Operations', () => {
 });
 ```
 
-Open Source & Contributing
+## Open Source & Contributing
+
 This Database Adapter System is being released as an open-source project on GitHub to encourage collaboration and community-driven improvement.
 
 Everyone is welcome to contribute — whether it's:
