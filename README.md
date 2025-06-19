@@ -510,15 +510,11 @@ This Database Adapter System is being released as an open-source project on GitH
 
 Everyone is welcome to contribute — whether it's:
 
-Writing unit and integration tests
-
-Completing or improving existing adapters (e.g., MySQL, SQLite, Redis)
-
-Suggesting enhancements or new features
-
-Reporting issues or edge cases
-
-Improving documentation and usage examples
+* Writing unit and integration tests
+* Completing or improving existing adapters (e.g., MySQL, SQLite, Redis)
+* Suggesting enhancements or new features
+* Reporting issues or edge cases
+* Improving documentation and usage examples
 
 If you're interested in helping shape a flexible, database-agnostic abstraction layer for modern applications, feel free to fork the repo, submit PRs, or start a discussion.
 
