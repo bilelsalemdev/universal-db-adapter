@@ -1,3 +1,4 @@
+![vecteezy_illustration-depicting-a-secure-cloud-database-system-with_47783122](https://github.com/user-attachments/assets/a17db5b6-0056-453e-9e8a-c5f2ced7df57)
 # Universal-db-adapter
 Open-source database adapter layer for building cross-database apps.
 
